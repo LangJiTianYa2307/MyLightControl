@@ -1,0 +1,15 @@
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\bin\Debug\netcoreapp3.1\F28LightControlDemo.exe
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\bin\Debug\netcoreapp3.1\F28LightControlDemo.deps.json
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\bin\Debug\netcoreapp3.1\F28LightControlDemo.runtimeconfig.json
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\bin\Debug\netcoreapp3.1\F28LightControlDemo.runtimeconfig.dev.json
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\bin\Debug\netcoreapp3.1\F28LightControlDemo.dll
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\bin\Debug\netcoreapp3.1\F28LightControlDemo.pdb
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.csproj.AssemblyReference.cache
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.csproj.GenerateResource.cache
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.AssemblyInfoInputs.cache
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.AssemblyInfo.cs
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.dll
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.pdb
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.genruntimeconfig.cache
+C:\Users\aaa\source\repos\F28LightControlDemo\F28LightControlDemo\obj\Debug\netcoreapp3.1\F28LightControlDemo.Winform.resources
